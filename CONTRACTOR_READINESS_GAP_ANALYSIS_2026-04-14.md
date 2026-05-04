@@ -32,8 +32,7 @@ Rename electronics/repair/smart-home services to **Ancillary Technical & Vocatio
 
 ### Phase 1: Regulatory Completion
 1. **DD-214:** Obtain Dane’s DD-214.
-2. **SDVOSB:** File Service-Disabled Veteran-Owned Small Business certification at VetCert.
-3. **HUBZone:** File HUBZone certification using the Clarksville address and HUBZone residency requirements.
+2. **HUBZone:** File HUBZone certification using the Clarksville address and HUBZone residency requirements.
 4. **Synchronization:** Upon clearance, update SAM.gov, website, and email signatures.
 
 ### Phase 2: Evidence Generation (The Pilots)

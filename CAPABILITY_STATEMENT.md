@@ -3,7 +3,7 @@
 *Pioneering Psychoeducational Pattern Recognition & Regulation Training*
 
 ## Company Overview
-Capitol Contracts LLC, a Service-Disabled Veteran-Owned Small Business (SDVOSB), delivers innovative, evidence-based programs designed to address critical challenges within the veteran community and federal systems. Led by Daniel Lingar, we specialize in translating complex trauma responses into understandable, actionable patterns through structured, repeatable psychoeducational programs.
+Capitol Contracts LLC delivers innovative, evidence-based programs designed to address critical challenges within the veteran community and federal systems. Led by Daniel Lingar, we specialize in translating complex trauma responses into understandable, actionable patterns through structured, repeatable psychoeducational programs.
 
 ## Core Competencies: The Wounded Blueprint
 Our core IP, the **Wounded Blueprint**, provides a session-by-session mapping of What Really Happened (WRH) to nervous-system patterns. We specialize in:
@@ -31,7 +31,7 @@ We provide technical and vocational solutions directly tied to reentry and vocat
 - **Primary NAICS:** 611710 (Educational Support Services)
 - **Secondary NAICS:** 611430 (Professional and Management Development Training), 624190 (Other Individual and Family Services)
 - **PSCs:** U009 (Education/Training - General), U099 (Other Ed/Training), U093 (Vocational/Technical), R699 (Other Support - Admin)
-- **Certifications:** SDVOSB (Service-Disabled Veteran-Owned Small Business), HUBZone (Pending)
+- **Certifications:** HUBZone (Pending)
 
 ## Contact Information
 **Daniel Lingar, CEO**  
