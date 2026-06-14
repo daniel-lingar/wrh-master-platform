@@ -1,0 +1,274 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>WRH Pilot Operating & Evaluation Package</title>
+  <style>
+    :root {
+      --black: #000000;
+      --charcoal: #1A1A1A;
+      --gold: #D4AF37;
+      --white: #FFFFFF;
+      --purple: #6A0DAD;
+      --muted: #CFCFCF;
+      --green: #1f7a3a;
+      --amber: #b8860b;
+      --red: #9b1c1c;
+    }
+    * { box-sizing: border-box; }
+    body {
+      margin: 0;
+      font-family: Arial, Helvetica, sans-serif;
+      background: var(--black);
+      color: var(--white);
+      line-height: 1.6;
+    }
+    a { color: var(--gold); text-decoration: none; }
+    a:hover { text-decoration: underline; }
+    header {
+      border-bottom: 1px solid var(--gold);
+      background: linear-gradient(135deg, #000 0%, #161616 70%, #24113a 100%);
+      padding: 56px 24px;
+    }
+    .wrap { max-width: 1120px; margin: 0 auto; }
+    .eyebrow {
+      color: var(--gold);
+      text-transform: uppercase;
+      letter-spacing: .18em;
+      font-size: 13px;
+      font-weight: 700;
+    }
+    h1 {
+      margin: 12px 0 16px;
+      font-size: clamp(34px, 5vw, 64px);
+      line-height: 1.05;
+      color: var(--gold);
+    }
+    .subtitle {
+      max-width: 840px;
+      font-size: 19px;
+      color: var(--muted);
+    }
+    nav {
+      margin-top: 28px;
+      display: flex;
+      flex-wrap: wrap;
+      gap: 12px;
+    }
+    nav a, .button {
+      border: 1px solid var(--gold);
+      border-radius: 999px;
+      padding: 10px 15px;
+      color: var(--gold);
+      font-weight: 700;
+      font-size: 14px;
+    }
+    nav a:hover, .button:hover {
+      background: var(--gold);
+      color: var(--black);
+      text-decoration: none;
+    }
+    main { padding: 40px 24px 64px; }
+    section {
+      margin: 0 0 28px;
+      padding: 26px;
+      background: var(--charcoal);
+      border: 1px solid rgba(212,175,55,.8);
+      border-radius: 14px;
+    }
+    h2 { margin-top: 0; color: var(--gold); font-size: 28px; }
+    h3 { color: var(--white); margin-bottom: 8px; }
+    p { color: var(--muted); }
+    .grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(240px, 1fr));
+      gap: 18px;
+    }
+    .card {
+      background: #050505;
+      border: 1px solid rgba(212,175,55,.65);
+      border-radius: 12px;
+      padding: 18px;
+    }
+    .card h3 { margin-top: 0; color: var(--gold); }
+    .card ul { padding-left: 18px; color: var(--muted); }
+    .flow {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(150px, 1fr));
+      gap: 10px;
+      margin-top: 18px;
+    }
+    .step {
+      padding: 16px;
+      border: 1px solid rgba(106,13,173,.9);
+      border-radius: 10px;
+      background: #080808;
+      min-height: 100px;
+    }
+    .num {
+      display: inline-block;
+      color: var(--black);
+      background: var(--gold);
+      border-radius: 999px;
+      width: 28px;
+      height: 28px;
+      text-align: center;
+      line-height: 28px;
+      font-weight: 800;
+      margin-bottom: 8px;
+    }
+    table {
+      width: 100%;
+      border-collapse: collapse;
+      overflow: hidden;
+      border-radius: 10px;
+      margin-top: 16px;
+    }
+    th, td {
+      border: 1px solid rgba(255,255,255,.16);
+      padding: 12px;
+      vertical-align: top;
+    }
+    th { color: var(--gold); background: #050505; text-align: left; }
+    td { color: var(--muted); }
+    .callout {
+      border-left: 5px solid var(--gold);
+      background: #050505;
+      padding: 18px;
+      color: var(--white);
+      margin-top: 16px;
+    }
+    .claim-grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+      gap: 16px;
+    }
+    .no { border-left: 5px solid var(--red); }
+    .yes { border-left: 5px solid var(--green); }
+    footer {
+      border-top: 1px solid var(--gold);
+      padding: 24px;
+      color: var(--muted);
+      text-align: center;
+      background: #050505;
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <div class="wrap">
+      <div class="eyebrow">What Really Happened™ · Pilot Layer</div>
+      <h1>WRH Pilot Operating & Evaluation Package</h1>
+      <p class="subtitle">A controlled pilot operations and evaluation system for measuring whether WRH can run safely once, document honestly, and improve before it scales.</p>
+      <nav>
+        <a href="./README.md">README</a>
+        <a href="./PACKAGE_INDEX.md">Package Index</a>
+        <a href="./SOURCE_MAP.md">Source Map</a>
+        <a href="./01_Pilot_Framework/Pilot_Evaluation_Framework.md">Pilot Framework</a>
+        <a href="./02_Field_Forms/Participant_Feedback_Form.md">Field Forms</a>
+        <a href="./03_Site_Review/Site_Performance_Summary.md">Site Review</a>
+        <a href="./04_Revision_Decisions/Pilot_Revision_Decision_Memo.md">Revision Memo</a>
+      </nav>
+    </div>
+  </header>
+
+  <main class="wrap">
+    <section>
+      <h2>Purpose</h2>
+      <p>This repository is the pilot-operating layer for WRH. It is not the curriculum source, not the buyer packet, and not a clinical treatment record. It contains the forms and evaluation tools needed to run a controlled WRH pilot, capture what happens, review site performance, and decide what must change before continuation or expansion.</p>
+      <div class="callout"><strong>Core standard:</strong> A pilot is not a performance. A pilot is a stress test.</div>
+    </section>
+
+    <section>
+      <h2>Source Map</h2>
+      <p>This pilot package is part of the three-repo WRH architecture: curriculum source, public deployment portal, and pilot evidence layer.</p>
+      <a class="button" href="./SOURCE_MAP.md">Open Source Map</a>
+    </section>
+
+    <section>
+      <h2>The Four-Zone Package</h2>
+      <div class="grid">
+        <div class="card">
+          <h3>Zone 1 — Pilot Framework</h3>
+          <p>Pre-registered rules for how the pilot will be measured before the pilot begins.</p>
+          <a class="button" href="./01_Pilot_Framework/Pilot_Evaluation_Framework.md">Open Framework</a>
+        </div>
+        <div class="card">
+          <h3>Zone 2 — Field Forms</h3>
+          <p>Active pilot forms for feedback, fidelity, attendance, activation events, support bridge activation, and unresolved handoff review.</p>
+          <a class="button" href="./PACKAGE_INDEX.md#zone-2--field-forms">View Forms</a>
+        </div>
+        <div class="card">
+          <h3>Zone 3 — Site Review</h3>
+          <p>Aggregates field data into site performance, final reporting, and operational findings.</p>
+          <a class="button" href="./03_Site_Review/Site_Performance_Summary.md">Open Site Summary</a>
+        </div>
+        <div class="card">
+          <h3>Zone 4 — Revision Decisions</h3>
+          <p>Records whether WRH should continue, revise, repeat, pause, expand, or decline further deployment.</p>
+          <a class="button" href="./04_Revision_Decisions/Pilot_Revision_Decision_Memo.md">Open Memo</a>
+        </div>
+      </div>
+    </section>
+
+    <section>
+      <h2>Pilot Evidence Chain</h2>
+      <p>The package follows a strict evidence chain from pre-registered measurement to revision decision.</p>
+      <div class="flow">
+        <div class="step"><span class="num">1</span><strong>Framework</strong><br>Define measurement before launch.</div>
+        <div class="step"><span class="num">2</span><strong>Field Forms</strong><br>Capture delivery and safety events.</div>
+        <div class="step"><span class="num">3</span><strong>Site Review</strong><br>Aggregate and score performance.</div>
+        <div class="step"><span class="num">4</span><strong>Final Report</strong><br>Summarize without clinical claims.</div>
+        <div class="step"><span class="num">5</span><strong>Revision Memo</strong><br>Decide what changes before scale.</div>
+      </div>
+    </section>
+
+    <section>
+      <h2>Package Files</h2>
+      <table>
+        <thead><tr><th>Zone</th><th>Files</th></tr></thead>
+        <tbody>
+          <tr><td>01 Pilot Framework</td><td><a href="./01_Pilot_Framework/Pilot_Evaluation_Framework.md">Pilot_Evaluation_Framework.md</a></td></tr>
+          <tr><td>02 Field Forms</td><td><a href="./02_Field_Forms/Participant_Feedback_Form.md">Participant_Feedback_Form.md</a><br><a href="./02_Field_Forms/Facilitator_Fidelity_Scoring_Sheet.md">Facilitator_Fidelity_Scoring_Sheet.md</a><br><a href="./02_Field_Forms/Session_Attendance_Completion_Tracker.md">Session_Attendance_Completion_Tracker.md</a><br><a href="./02_Field_Forms/Activation_Event_Log.md">Activation_Event_Log.md</a><br><a href="./02_Field_Forms/Support_Bridge_Activation_Log.md">Support_Bridge_Activation_Log.md</a><br><a href="./02_Field_Forms/Unresolved_Handoff_Review_Form.md">Unresolved_Handoff_Review_Form.md</a></td></tr>
+          <tr><td>03 Site Review</td><td><a href="./03_Site_Review/Site_Performance_Summary.md">Site_Performance_Summary.md</a><br><a href="./03_Site_Review/Final_Pilot_Report_Template.md">Final_Pilot_Report_Template.md</a></td></tr>
+          <tr><td>04 Revision Decisions</td><td><a href="./04_Revision_Decisions/Pilot_Revision_Decision_Memo.md">Pilot_Revision_Decision_Memo.md</a></td></tr>
+        </tbody>
+      </table>
+    </section>
+
+    <section>
+      <h2>Claims Boundary</h2>
+      <div class="claim-grid">
+        <div class="card yes">
+          <h3>May Support</h3>
+          <ul>
+            <li>Operational delivery findings</li>
+            <li>Facilitator fidelity findings</li>
+            <li>Participant engagement without required disclosure</li>
+            <li>Support Bridge performance</li>
+            <li>Unresolved handoff review</li>
+            <li>Site readiness accuracy</li>
+            <li>Required revisions before expansion</li>
+          </ul>
+        </div>
+        <div class="card no">
+          <h3>Does Not Support</h3>
+          <ul>
+            <li>Clinical effectiveness claims</li>
+            <li>PTSD or C-PTSD treatment claims</li>
+            <li>Suicide prevention outcome claims</li>
+            <li>Addiction treatment claims</li>
+            <li>Symptom reduction claims</li>
+            <li>Replacement of licensed care</li>
+          </ul>
+        </div>
+      </div>
+    </section>
+  </main>
+
+  <footer>
+    <strong>What Really Happened™ (WRH)</strong> · Capitol Contracts LLC · Pilot Operating & Evaluation Package
+  </footer>
+</body>
+</html>
