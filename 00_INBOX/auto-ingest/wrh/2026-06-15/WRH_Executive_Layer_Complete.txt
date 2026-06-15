@@ -1,0 +1,630 @@
+# WRH Executive Layer Complete
+## NotebookLM Combined Source
+
+This single Markdown source combines the root WRH orientation documents and the executive-layer architecture so NotebookLM can read the system without relying on GitHub URLs.
+
+Recommended NotebookLM source title: **WRH Executive Layer Complete**
+
+---
+
+# 1. WRH Master Document
+
+What Really Happened™ (WRH) is a structured behavioral and trauma-literacy model designed to help individuals and systems understand how survival patterns form and how directional change occurs.
+
+WRH shifts the unit of intervention from **behavior** to **trajectory**.
+
+WRH is built on two core engines:
+
+- **The Survival Map** — where the pattern came from
+- **The Trajectory Engine** — how direction changes
+
+WRH is not a workbook, not a coping-skills program, and not a clinical treatment. It is a system-level model for understanding and changing human patterns.
+
+## WRH System Layers
+
+- **Identity** — what WRH is and is not
+- **Survival Map** — the trauma-literacy model
+- **Trajectory Engine** — the directional-change model
+- **Program System** — how WRH becomes teachable and deliverable
+- **Buyer System** — how agencies understand what they can purchase
+- **Federal System** — how WRH becomes grant-ready and review-ready
+- **Deployment System** — how WRH is implemented with fidelity
+- **Sales System** — how WRH communicates with buyers and partners
+- **Brand System** — how WRH maintains a unified identity
+- **Document Hierarchy** — how the WRH ecosystem is organized
+
+WRH gives individuals the map they were never handed and gives systems the model they have always been missing.
+
+---
+
+# 2. WRH Repository Index
+
+The WRH Repository Index is the navigation layer for the WRH repository.
+
+It gives reviewers, partners, buyers, and staff a clear navigation path through the WRH ecosystem.
+
+## Start Here
+
+- WRH Master Document
+- Executive Layer README
+- Executive Navigation Map
+
+## Root-Level Navigation
+
+- `WRH_MASTER_DOCUMENT.md` — front door and system map
+- `WRH_REPOSITORY_INDEX.md` — repository-wide directory
+
+## Executive Navigation
+
+- `docs/executive/README.md` — executive-layer hub
+- `docs/executive/NAVIGATION.md` — executive reading order
+
+---
+
+# 3. Executive Layer README
+
+The executive layer is the operating-system layer of WRH.
+
+It explains what WRH is, how the pieces fit together, and how buyers, partners, funders, evaluators, staff, and implementers should navigate the system.
+
+## Executive Modules
+
+1. Identity
+2. Survival Map
+3. Trajectory Engine
+4. Program System
+5. Buyer System
+6. Federal System
+7. Deployment System
+8. Sales System
+9. Brand System
+10. Document Hierarchy
+
+The WRH Executive Layer README gives readers a clear entry point into the complete executive architecture of WRH.
+
+---
+
+# 4. Executive Navigation Map
+
+## Entry Points
+
+- Repository Index
+- WRH Master Document
+- Executive README
+
+## Executive Reading Order
+
+1. Identity
+2. Survival Map
+3. Trajectory Engine
+4. Program System
+5. Buyer System
+6. Federal System
+7. Deployment System
+8. Sales System
+9. Brand System
+10. Document Hierarchy
+
+---
+
+# 5. Identity
+
+WRH is a structured behavioral and trauma-literacy model designed to help individuals and systems understand how survival patterns form and how directional change occurs.
+
+WRH shifts the unit of intervention from **behavior** to **trajectory**.
+
+WRH provides:
+
+- a shared language
+- a mechanical model
+- a repeatable process
+- a system-level understanding of patterns
+- a directional framework for change
+
+## What WRH Is Not
+
+WRH is not:
+
+- a clinical treatment
+- a coping-skills curriculum
+- a workbook
+- a motivational program
+- a crisis-response protocol
+
+These tools may exist in the ecosystem, but they are not the identity of WRH.
+
+## WRH as a System Architecture
+
+WRH is a system-level architecture for understanding and changing human patterns. It gives agencies a shared language, a mechanical model, a repeatable process, a directional framework, and a way to track change over time.
+
+WRH is the operating system, not the application.
+
+## Foundational Engines
+
+- **The Survival Map** — the trauma-literacy model
+- **The Trajectory Engine** — the directional-change model
+
+These engines form the foundation of the entire WRH ecosystem.
+
+---
+
+# 6. Survival Map
+
+The Survival Map is WRH’s five-part trauma-literacy model.
+
+It explains where the pattern came from before asking anyone to change the pattern.
+
+Most systems begin with behavior. WRH begins with context.
+
+The Survival Map gives participants, staff, agencies, and partners a shared language for understanding survival patterns without requiring disclosure, exposure, confession, or clinical processing.
+
+It does not ask: “What is wrong with this person?”
+
+It asks: “What did this person’s system learn to do in order to survive?”
+
+## The Five Parts
+
+### 1. The Water
+
+The Water represents the conditions that shaped the nervous system. It includes environment, pressure, instability, threat, loss, neglect, conflict, fear, humiliation, abandonment, isolation, or repeated stress.
+
+The Water is not an excuse. It is the context.
+
+### 2. The Alarm
+
+The Alarm is the nervous system’s danger signal. It explains why danger can feel present even when the current moment does not appear dangerous to others.
+
+The Alarm may show up as shutdown, panic, anger, avoidance, dissociation, hypervigilance, control, urgency, emotional flooding, refusal, or disappearance.
+
+### 3. Survival Moves
+
+Survival Moves are automatic responses developed to get through danger, pressure, shame, instability, or emotional overwhelm.
+
+They may include fight, flight, freeze, fawn, shutdown, avoidance, substance use, control, withdrawal, self-sabotage, overfunctioning, disappearing, people-pleasing, defiance, or numbness.
+
+Survival Moves are not random. They are learned responses.
+
+### 4. The Rescue Boat
+
+The Rescue Boat is the coping strategy that kept the person afloat.
+
+A Rescue Boat can be harmful and still have once served a survival function. Examples include substances, isolation, anger, avoidance, overwork, emotional numbness, control, toxic relationships, compulsive behavior, disappearing, or shutdown.
+
+WRH does not shame the Rescue Boat. It names what the Rescue Boat did, then asks what can replace it.
+
+### 5. The Way Back
+
+The Way Back is the process of building direction through small, repeatable interrupts.
+
+It is not instant transformation, motivation, or punishment. It is repeated evidence.
+
+The Way Back teaches participants and systems to notice the Alarm, name the Survival Move, identify the Rescue Boat, find the fork, practice the interrupt, repeat the action, build evidence, and stabilize direction.
+
+## Summary
+
+The Survival Map shows where the pattern came from so the Trajectory Engine can show how direction changes.
+
+---
+
+# 7. Trajectory Engine
+
+The Trajectory Engine is WRH’s directional-change model.
+
+It explains how a person moves from automatic survival pattern to repeated, measurable change.
+
+Most systems focus on behavior after it appears. WRH focuses on the sequence that produces the behavior.
+
+The sequence is:
+
+**Pattern → Fork → Interrupt → Repetition → Evidence → Direction**
+
+## 1. Pattern
+
+A pattern is the repeated survival sequence a person’s system has learned to run. It may look like relapse, shutdown, avoidance, anger, disappearing, missed appointments, conflict, self-sabotage, emotional flooding, overfunctioning, or collapse.
+
+The behavior is the end of the sequence. The pattern began earlier. The first task is to make the pattern visible.
+
+## 2. Fork
+
+The fork is the moment where direction can change. It is the point between automatic activation and automatic action.
+
+The fork may be small and may last only seconds, but it matters because this is where interruption becomes possible.
+
+## 3. Interrupt
+
+An interrupt is a small action that breaks the automatic sequence.
+
+It is not total transformation, perfection, or proof that the person is fixed.
+
+An interrupt may be pausing, naming the Alarm, leaving before escalation, asking for help, using a safer replacement, showing up late instead of disappearing, sending a message instead of shutting down, or choosing one stabilizing action before the pattern completes.
+
+The goal is not perfection. The goal is evidence.
+
+## 4. Repetition
+
+One interrupt does not change a trajectory. Repetition does.
+
+Repetition turns understanding into movement. Each repeated interrupt weakens the old automatic sequence and strengthens the new direction.
+
+## 5. Evidence
+
+Evidence is what the system collects when a new action is repeated. Evidence tells the nervous system that this did not destroy me, this did not make me unsafe, this did not collapse everything, this created a different outcome, and this direction may be possible again.
+
+Evidence is lived proof.
+
+## 6. Direction
+
+Direction is the stabilized movement that forms after repeated interrupts build enough evidence.
+
+Direction does not mean the person never struggles. It means the pattern is no longer the only available route.
+
+Direction may look like increased retention, reduced crisis use, fewer relapses, fewer missed appointments, improved communication, safer support use, increased stability, improved follow-through, greater staff confidence, and measurable participant movement.
+
+## Summary
+
+The Trajectory Engine shows how change happens: not through punishment, pressure, or willpower, but through repeated interrupts that build evidence and create direction.
+
+---
+
+# 8. Program System
+
+The WRH Program System turns the WRH model into teachable, repeatable, agency-ready delivery.
+
+If the Survival Map explains where the pattern came from, and the Trajectory Engine explains how direction changes, the Program System explains how to teach WRH, deliver WRH, and make WRH repeatable.
+
+The Program System includes:
+
+- Staff Training
+- Participant Workshops
+- Implementation Support
+- Evaluation System
+
+## Staff Training
+
+Staff Training gives staff a shared language, mechanical model, way to understand behavior without blame, coaching framework, method for identifying forks and interrupts, and structure for supporting directional change.
+
+Staff Training includes the Survival Map, the Trajectory Engine, Applied WRH, and Leadership & Fidelity.
+
+## Participant Workshops
+
+Participant Workshops translate the WRH model into direct service.
+
+Workshops focus on pattern visibility, fork recognition, interrupt practice, safer replacements, evidence building, and directional stability.
+
+They are non-clinical, non-exposure-based, non-confessional, and non-punitive.
+
+## Implementation Support
+
+Implementation Support ensures WRH is delivered consistently across staff, shifts, and programs.
+
+It includes coaching, fidelity monitoring, case consultation, staff support, workflow integration, and alignment with agency goals.
+
+Without implementation support, WRH becomes a training. With it, WRH becomes a program.
+
+## Evaluation System
+
+The Evaluation System measures interrupt frequency, evidence accumulation, directional stability, crisis utilization, retention, relapse/recidivism, and participant movement.
+
+It turns WRH from a good idea into a measurable program.
+
+## Summary
+
+The WRH Program System turns the WRH model into a repeatable, measurable, agency-ready program that staff can deliver and participants can use.
+
+---
+
+# 9. Buyer-Facing System
+
+The WRH Buyer-Facing System helps agencies understand what WRH is, what they can purchase, how it is delivered, what outcomes it produces, and how it integrates into their system.
+
+This is the procurement-facing and decision-maker-facing layer of WRH.
+
+It is not curriculum, federal content, or implementation detail. It is the business-side explanation of the WRH product.
+
+The Buyer-Facing System includes:
+
+- One-Page Sell Sheet
+- Product Catalog
+- Training Catalog
+- Pilot Program Sheet
+- Pricing Sheet
+- Statement of Work
+- License Terms
+- Evaluation Framework
+- Reporting Tools
+- Session 16 Sample Packet
+
+## Component Purposes
+
+The One-Page Sell Sheet gives directors and decision-makers a fast overview of WRH.
+
+The Product Catalog lists all WRH offerings, including staff training, participant workshops, implementation support, evaluation tools, licensing options, and deployment packages.
+
+The Training Catalog details staff-facing modules, learning objectives, delivery format, duration, audience, and prerequisites.
+
+The Pilot Program Sheet outlines the 90-day WRH pilot.
+
+The Pricing Sheet provides transparent pricing, tiered options, per-site or per-program models, licensing structure, and add-ons.
+
+The Statement of Work is the contract-ready description of scope, deliverables, timelines, responsibilities, reporting, evaluation, and licensing terms.
+
+License Terms protect WRH intellectual property and define usage rights, distribution limits, modification restrictions, renewal terms, and agency responsibilities.
+
+The Evaluation Framework explains what WRH measures and how outcomes are reported.
+
+Reporting Tools include monthly reports, quarterly summaries, annual outcomes, fidelity snapshots, and participant movement indicators.
+
+The Session 16 Sample Packet is proof of product.
+
+## Summary
+
+The WRH Buyer-Facing System gives agencies a clear, structured understanding of what WRH is, what they can purchase, and how the model delivers measurable outcomes.
+
+---
+
+# 10. Federal System
+
+The WRH Federal System translates WRH into public-sector, grant, agency, and federal-review language.
+
+It explains how WRH fits into funding environments, agency priorities, evaluation expectations, and compliance-facing systems.
+
+This module is not the curriculum, buyer packet, or deployment plan. It is the federal-facing architecture of WRH.
+
+The Federal System includes:
+
+- Federal Abstract
+- Needs Statement
+- Project Description
+- Goals & Objectives
+- Logic Model
+- Work Plan / Timeline
+- Budget Justification Narrative
+- Performance Measurement Plan
+- Evaluation Plan
+- Organizational Capacity Statement
+- Sustainability Plan
+- SAMHSA Compliance Language
+- Letters of Support Templates
+
+## Component Purposes
+
+The Federal Abstract summarizes what WRH is, who it serves, why the project matters, expected outcomes, and public-sector alignment.
+
+The Needs Statement explains the structural gap WRH addresses: most systems intervene at the visible behavior stage after the survival sequence has already completed.
+
+The Project Description explains how WRH works inside an agency through staff training, participant workshops, implementation support, evaluation tools, reporting, and sustainability planning.
+
+Goals and Objectives translate WRH into measurable commitments.
+
+The Logic Model connects inputs, activities, outputs, short-term outcomes, intermediate outcomes, and long-term outcomes.
+
+The Work Plan explains implementation steps across 30 days, 90 days, 6 months, or 12 months.
+
+The Budget Justification Narrative explains why each cost is necessary and connects every cost to a project function.
+
+The Performance Measurement Plan tracks participant attendance, staff training completion, interrupt frequency, pattern visibility, evidence accumulation, directional stability, crisis utilization, retention, relapse/recidivism indicators, staff confidence, and fidelity markers.
+
+The Evaluation Plan reviews delivery, staff use, participant understanding, interrupt attempts, stability indicators, crisis use, and usable agency data.
+
+The Organizational Capacity Statement explains why the applicant or partner can execute WRH.
+
+The Sustainability Plan explains how WRH continues after initial funding through internal staff training, train-the-trainer pathways, licensing, budget integration, partner support, annual updates, recurring cycles, outcome reporting, and future grant alignment.
+
+SAMHSA-facing language remains clear, non-clinical, non-diagnostic, trauma-informed, and focused on education, prevention, early intervention, resilience, recovery support, workforce capacity, measurement, sustainability, and accessibility.
+
+Letters of Support document partner alignment.
+
+## Summary
+
+The WRH Federal System translates WRH into grant-ready, agency-ready, and review-ready language so public systems can understand, fund, measure, and sustain the model.
+
+---
+
+# 11. Deployment System
+
+The WRH Deployment System ensures WRH is delivered consistently, predictably, and with fidelity across programs, staff, shifts, and sites.
+
+If the Program System explains what WRH teaches, the Deployment System explains how to actually run WRH inside a real agency.
+
+It includes:
+
+- Deployment Checklist
+- Implementation Roadmap
+- Fidelity Tools
+- Participant Materials
+
+## Deployment Checklist
+
+The Deployment Checklist includes staff training schedule, workshop schedule, coaching cadence, reporting setup, fidelity expectations, evaluation alignment, participant flow, and documentation requirements.
+
+## Implementation Roadmap
+
+The Implementation Roadmap provides a month-by-month rollout plan covering training, workshops, coaching, fidelity checks, evaluation milestones, and reporting deadlines.
+
+## Fidelity Tools
+
+Fidelity Tools ensure WRH is delivered the way it was designed. They include facilitator checklists, session rubrics, coaching notes, observation tools, fidelity snapshots, and alignment guides.
+
+Fidelity protects program quality, participant experience, outcome reliability, and evaluation accuracy.
+
+Without fidelity, WRH becomes a training. With fidelity, WRH becomes a system.
+
+## Participant Materials
+
+Participant Materials include handouts, worksheets, pattern maps, interrupt practice tools, and directional tracking sheets.
+
+These materials reinforce the Survival Map, Trajectory Engine, interrupt practice, evidence building, and directional stability.
+
+They are non-clinical, non-exposure-based, non-confessional, and non-punitive.
+
+## Summary
+
+The WRH Deployment System ensures WRH is delivered consistently, predictably, and with fidelity so agencies can achieve measurable, stable, repeatable outcomes.
+
+---
+
+# 12. Sales System
+
+The WRH Sales System is the structured communication layer that supports agencies, partners, and procurement officers as they move through the WRH decision process.
+
+It is not marketing, persuasion, or pressure.
+
+It is a professional, predictable, high-clarity communication system that helps agencies understand what WRH is, what WRH delivers, how WRH works, what they can purchase, how implementation unfolds, and how outcomes are measured.
+
+The Sales System includes:
+
+- Attachment Sequence
+- Buyer Journey
+- Follow-Up Scripts
+
+## Attachment Sequence
+
+The Attachment Sequence is the structured order in which WRH materials are sent to a buyer.
+
+A typical sequence includes WRH One-Page Overview, WRH Master Document, Product Catalog, Pilot Program Sheet, Pricing Sheet, Statement of Work, Evaluation Framework, and Session 16 Sample Packet.
+
+## Buyer Journey
+
+The Buyer Journey maps how agencies move from first contact to contract.
+
+It includes initial interest, informational meeting, document review, internal discussion, procurement review, scope alignment, pricing confirmation, contract drafting, and implementation scheduling.
+
+Agencies may move back and forth between stages.
+
+## Follow-Up Scripts
+
+Follow-Up Scripts are professional communication templates that ensure clarity, consistency, accuracy, alignment, and tone discipline.
+
+They include post-meeting summaries, document delivery messages, clarification responses, procurement guidance, next-step confirmations, timeline alignment messages, and evaluation explanation messages.
+
+They help agencies feel supported, not pressured.
+
+## Summary
+
+The WRH Sales System provides a structured, professional communication pathway that helps agencies understand WRH, evaluate WRH, and move confidently toward implementation.
+
+---
+
+# 13. Brand System
+
+The WRH Brand System defines the identity, tone, structure, and visual logic of the WRH ecosystem.
+
+It ensures every WRH document — curriculum, executive materials, deployment tools, federal content, sales attachments, and training — feels like it comes from the same system.
+
+The Brand System includes:
+
+- Color Architecture
+- Voice & Tone
+- Structural Rules
+- Document Identity
+- Design Logic
+
+This is not marketing. This is system identity.
+
+## Color Architecture
+
+The WRH Dark Mode Executive palette is built around five colors:
+
+- Black — foundation
+- Charcoal — structure
+- Gold — authority
+- White — clarity
+- Purple — depth
+
+Black anchors the system. Charcoal organizes content. Gold signals authority and key concepts. White provides readability and contrast. Purple marks depth, insight, and emotional intelligence.
+
+## Voice & Tone
+
+WRH voice is direct, grounded, mechanical, emotionally intelligent, high-authority, and non-performative.
+
+WRH avoids motivational language, clinical jargon, emotional pressure, performative empathy, and inspirational slogans.
+
+## Structural Rules
+
+WRH documents use clear section headers, short paragraphs, mechanical explanations, no filler language, no emotional overreach, no unnecessary narrative, consistent hierarchy, and consistent summary lines.
+
+This makes WRH readable, teachable, reviewable, fundable, and evaluable.
+
+## Document Identity
+
+- Executive Documents — system architecture
+- Program Documents — training and workshops
+- Deployment Documents — fidelity and implementation
+- Federal Documents — compliance and alignment
+- Sales Documents — procurement clarity
+- Curriculum Documents — participant learning
+
+Each category looks distinct, reads distinct, functions distinct, and still belongs to the same ecosystem.
+
+## Design Logic
+
+WRH design logic is built around clarity, hierarchy, contrast, authority, and minimalism.
+
+Design is not decoration. Design is function.
+
+## Summary
+
+The WRH Brand System creates a unified, authoritative identity that makes WRH recognizable, trustworthy, and coherent across every layer of the ecosystem.
+
+---
+
+# 14. Document Hierarchy
+
+The WRH Document Hierarchy defines how the WRH ecosystem is organized.
+
+This file is the navigation system for WRH.
+
+## Level 1 — Master Document
+
+- WRH Master Document
+
+Purpose: front door and system map.
+
+## Level 2 — Core Theory
+
+- Survival Map
+- Trajectory Engine
+
+Purpose: explain where the pattern came from and how direction changes.
+
+## Level 3 — Program Delivery
+
+- Curriculum
+- Facilitator Guide
+- Participant Materials
+
+Purpose: translate theory into direct service.
+
+## Level 4 — Implementation
+
+- Deployment Package
+- Evaluation Framework
+- Fidelity Tools
+
+Purpose: support consistent delivery and measurement.
+
+## Level 5 — Commercial Systems
+
+- Product Catalog
+- Pricing
+- Licensing
+- Statements of Work
+
+Purpose: support procurement and contracting.
+
+## Level 6 — Federal Systems
+
+- Grant Materials
+- Logic Models
+- Compliance Language
+- Sustainability Planning
+
+Purpose: support grant writing, compliance, and public-sector review.
+
+## Summary
+
+The WRH Document Hierarchy provides the navigation system that organizes the entire WRH ecosystem into a clear, coherent, scalable structure.
+
+---
+
+# End of Combined Source
